@@ -1,17 +1,18 @@
 {
-  "title": "test katacoda",
-  "description": "test katacoda",
+  "title": "Creating a Katacoda Course",
+  "description": "Learn how to create a collection of Katacoda scenarios into a course",
   "details": {
     "steps": [
       {
-        "title": "Step 1 - test ls",
+        "title": "Step 1 - Pathway Files",
         "text": "step1.md"
-      },
+      }
+    ]
   },
   "environment": {
     "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "ubuntu"
+    "imageid": "node"
   }
 }
