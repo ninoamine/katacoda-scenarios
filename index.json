@@ -1,0 +1,17 @@
+{
+  "title": "test katacoda",
+  "description": "test katacoda",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1 - test ls",
+        "text": "step1.md"
+      },
+  },
+  "environment": {
+    "uilayout": "editor-terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
