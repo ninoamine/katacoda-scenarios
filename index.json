@@ -11,8 +11,5 @@
   },
   "environment": {
     "uilayout": "terminal"
-  },
-  "backend": {
-    "imageid": "minikube"
   }
 }
